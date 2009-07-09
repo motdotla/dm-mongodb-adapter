@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{dm-mongodb-adapter}
-  s.version = "0.0.1"
+  s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["scottmotte"]
@@ -15,6 +15,7 @@ Gem::Specification.new do |s|
   s.files = [
     ".document",
      ".gitignore",
+     "FIXME",
      "LICENSE",
      "README.rdoc",
      "Rakefile",
@@ -28,7 +29,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.4}
-  s.summary = %q{TODO}
+  s.summary = %q{Attempt at dm mongodb adapter}
   s.test_files = [
     "spec/dm-mongodb-adapter_spec.rb",
      "spec/spec_helper.rb"
