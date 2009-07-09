@@ -5,7 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "dm-mongodb-adapter"
-    gem.summary = %Q{TODO}
+    gem.summary = %Q{Attempt at dm mongodb adapter}
     gem.email = "scott@scottmotte.com"
     gem.homepage = "http://github.com/scottmotte/dm-mongodb-adapter"
     gem.authors = ["scottmotte"]
