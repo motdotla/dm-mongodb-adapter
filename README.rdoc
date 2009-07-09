@@ -1,7 +1,3 @@
 = dm-mongodb-adapter
 
-Description goes here.
-
-== Copyright
-
-Copyright (c) 2009 scottmotte. See LICENSE for details.
+Attempt at building a mongodb adapter
